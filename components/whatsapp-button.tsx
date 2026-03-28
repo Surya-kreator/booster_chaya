@@ -3,7 +3,7 @@
 export function WhatsAppButton() {
   return (
     <a
-      href=""
+      href="https://wa.me/919843386594?text=Hello! can%27d%20we%20discuss%20about%20my%20Business%20for%20building%20my%20website?."
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 group"
