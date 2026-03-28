@@ -73,15 +73,15 @@ export function Footer() {
               <li>Pudupalayam, Tamil Nadu 641663</li>
               <li className="pt-2">
                 <a
-                  href="tel:09159493230"
+                  href="tel:09843386594"
                   className="hover:text-primary transition-colors"
                 >
-                  091594 93230
+                  09843386594
                 </a>
               </li>
               <li>
                 <a
-                  href="https://wa.me/919159493230?text=Hello! I%27d%20like%20to%20order%20from%20Booster%20Chaya."
+                  href="https://wa.me/919843386594?text=Hello! can%20we%20discuss%20about%20my%20Business%20for%20building%20my%20website?"
                   className="hover:text-primary transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
