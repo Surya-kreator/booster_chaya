@@ -63,7 +63,7 @@ export function HeroSection() {
             Explore Menu
           </a>
           <a
-            href="https://wa.me/919159493230?text=Hello! I%27d%20like%20to%20order%20from%20Booster%20Chaya."
+            href="https://wa.me/919843386594?text=Hello! can%20we%20discuss%20about%20my%20Business%20for%20building%20my%20website?"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 bg-[#25D366] text-white rounded-full text-sm font-semibold tracking-wide uppercase hover:scale-105 transition-transform duration-300 flex items-center gap-2"
