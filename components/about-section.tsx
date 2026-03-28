@@ -18,7 +18,7 @@ const features = [
   {
     icon: Phone,
     title: "Contact",
-    description: "09843386594",
+    description: "09159493230",
     detail: "Call or WhatsApp for orders and features",
   },
 ]
